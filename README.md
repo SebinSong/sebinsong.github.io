@@ -7,5 +7,6 @@ Personal Portfolio Website created using Vue.js. (SASS/SVG/Canvas/Greensock Twee
 - ** Intro SVG animation is rendered well on mobile devices but not responsive to the viewport resizing.
 
 Link: https://sebinsong.github.io
+
 Github Repository for the source codes: https://github.com/SebinSong/VueJS-Portfolio-Website
 
